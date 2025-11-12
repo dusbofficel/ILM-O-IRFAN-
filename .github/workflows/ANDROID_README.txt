@@ -1,0 +1,1 @@
+Place google-services.json into android/app/ to enable Firebase features. Then run flutter pub get and build.

@@ -1,0 +1,26 @@
+
+name: ilm_o_irfan
+description: Ilm-o-Irfan - Q&A app (Urdu/Hi/En) - Firebase-ready Android build
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.11
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.18.0
+  firebase_core: ^2.16.0
+  cloud_firestore: ^4.8.0
+  firebase_auth: ^4.6.0
+  firebase_storage: ^11.2.0
+  geolocator: ^10.1.0
+  http: ^1.2.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
