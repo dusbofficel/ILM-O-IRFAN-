@@ -1,0 +1,16 @@
+name: rahnuma
+description: Rahnuma Islamic App
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+fonts:
+  - family: JameelNoori
+    fonts:
+      - asset: assets/fonts/JameelNori.ttf
+flutter:
+  assets:
+    - assets/images/bg-green-pattern.jpg
+    - assets/images/bg-white-pattern.jpg
